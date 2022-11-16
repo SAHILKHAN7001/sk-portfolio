@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sk-portfolio/static/css/main.be19f7b0.css",
+    "main.js": "/sk-portfolio/static/js/main.e19562f3.js",
+    "static/media/blogwebsite.png": "/sk-portfolio/static/media/blogwebsite.f91aa646ad326db5c20a.png",
+    "static/media/mario.jpg": "/sk-portfolio/static/media/mario.016b4796332ba7950263.jpg",
+    "static/media/maxresdefault.jpg": "/sk-portfolio/static/media/maxresdefault.b9d2098187caaa328173.jpg",
+    "static/media/asphalt.jpg": "/sk-portfolio/static/media/asphalt.e7fe8abf267adccf95b3.jpg",
+    "static/media/MyCV.pdf": "/sk-portfolio/static/media/MyCV.95d9122ed61a561b6d55.pdf",
+    "static/media/sniper.jpg": "/sk-portfolio/static/media/sniper.7200f8be61e9a433988a.jpg",
+    "static/media/tenzies.png": "/sk-portfolio/static/media/tenzies.6329ad4614d25a077eb1.png",
+    "static/media/undraw_under_construction_-46-pa.svg": "/sk-portfolio/static/media/undraw_under_construction_-46-pa.f0a46e239835782348fcd73d64f13cf4.svg",
+    "static/media/pes5.jpeg": "/sk-portfolio/static/media/pes5.5c3c8bac912eeae27ca6.jpeg",
+    "static/media/undraw_feeling_blue_-4-b7q.svg": "/sk-portfolio/static/media/undraw_feeling_blue_-4-b7q.25a59af09a15f6b97cdde63a1a137f26.svg",
+    "index.html": "/sk-portfolio/index.html",
+    "main.be19f7b0.css.map": "/sk-portfolio/static/css/main.be19f7b0.css.map",
+    "main.e19562f3.js.map": "/sk-portfolio/static/js/main.e19562f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be19f7b0.css",
+    "static/js/main.e19562f3.js"
+  ]
+}
