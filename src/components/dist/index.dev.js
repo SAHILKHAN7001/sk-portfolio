@@ -27,12 +27,6 @@ Object.defineProperty(exports, "Blast", {
     return _Blast["default"];
   }
 });
-Object.defineProperty(exports, "Logo", {
-  enumerable: true,
-  get: function get() {
-    return _Logo["default"];
-  }
-});
 Object.defineProperty(exports, "ProgressBar", {
   enumerable: true,
   get: function get() {
@@ -53,8 +47,6 @@ var _Header = _interopRequireDefault(require("./header/Header"));
 var _ThemeTemplates = _interopRequireDefault(require("./ThemingTemplate/ThemeTemplates"));
 
 var _Blast = _interopRequireDefault(require("./BlastAnimation/Blast"));
-
-var _Logo = _interopRequireDefault(require("./logoAnimation/Logo"));
 
 var _ProgressBar = _interopRequireDefault(require("./ProgressBar"));
 

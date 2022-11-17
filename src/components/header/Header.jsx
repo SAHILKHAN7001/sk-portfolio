@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom'
 import { MdArrowDropDown } from 'react-icons/md'
 
 import Blast from '../BlastAnimation/Blast'
-import Logo from '../logoAnimation/Logo'
 import './header.scss'
 
 const nameArray = ['S', 'a', 'h', 'i', 'l', 'K', 'h', 'a','n']
@@ -82,7 +81,6 @@ const Header = () => {
               <span className="text">Contact me</span>
             </div>
           </Link>
-          <Logo />
           <div className="scroll__wrapper switch__color">
             <MdArrowDropDown className="scroll__down switch__color" />
           </div>
